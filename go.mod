@@ -1,4 +1,4 @@
-module github.com/andrzejtrzaska/cat
+module github.com/atrzaska/cat
 
 go 1.16
 
